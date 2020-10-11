@@ -1,6 +1,6 @@
-## simple steps to get going
+## SIMPLE STEPS TO GET GOING ..
 ### `STEP 1` : clone the repository in to your local system (use gitbash for windows)
-### `STEP 2` : open the project and run " npm i " to install all dependencies
+### `STEP 2` : open the folder in editors like VSCODE, ATOM,etc... and run " npm i " in the terminal to install all dependencies
 ### `STEP 3` : now run the project using command "npm start" or "yarn start"
 ### `STEP 4` : open the browser and go to http://localhost:3000
 ##
@@ -42,7 +42,7 @@ If you aren’t satisfied with the build tool and configuration choices, you can
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
+  
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
