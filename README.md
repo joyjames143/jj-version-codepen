@@ -1,3 +1,9 @@
+## simple steps to get going
+### `STEP 1` : clone the repository in to your local system (use gitbash for windows)
+### `STEP 2` : open the project and run " npm i " to install all dependencies
+### `STEP 3` : now run the project using command "npm start" or "yarn start"
+### `STEP 4` : open the browser and go to http://localhost:3000
+##
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
